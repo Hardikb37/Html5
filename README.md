@@ -16,3 +16,17 @@ Ans - Here are some of the features of HTML5.
 7. Drag and Drop : HTML5 added support for easily implementing drag and drop functionality within web applications without requiring external libraries or scripts.
 
 These are just a few of the many features that HTML5 offers. HTML5 is a versatile and powerful markup language that continues to evolve and enhance web development.
+
+
+Ques 2
+Ans - HTML entities are special characters or symbols that are represented using a special code or entity reference in HTML. They are used to display characters that have special meanings in HTML markup, such as angle brackets (< and >), ampersands (&), or non-breaking spaces.
+
+Here are five commonly used HTML entities:
+
+1.  < - Represents the less than symbol (<).
+2.  \> - Represents the greater than symbol (>).
+3.  & - Represents the ampersand symbol (&).
+4.  " - Represents the double quotation mark (").
+5. &nbsp - Represents a non-breaking space.
+
+These entities are used to ensure that these special characters or symbols are displayed correctly in HTML, rather than being interpreted as part of the markup.
